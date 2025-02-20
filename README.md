@@ -1,3 +1,3 @@
 https://discreet-work-7ea.notion.site/ukk-19e55a66cf998078ba93e0afb23904d1
-ini
+
 https://github.com/leokhoa/laragon/releases
